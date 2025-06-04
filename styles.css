@@ -394,3 +394,9 @@ main, .products {
     font-weight: bold;
     display: inline-block;
 }
+
+.cross-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
